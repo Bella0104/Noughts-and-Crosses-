@@ -1,6 +1,6 @@
-# 🎮 Tic Tac Toe in Java – Player vs Player (Summer 2024)
+# 🎮 Tic Tac Toe in Java – Player vs Player (Winter 2023)
 
-This repository contains a terminal-based **Tic Tac Toe** game written in **Java**, created as a personal project during **Summer 2024**. The current version supports **Player vs Player** mode in the console, and serves as a foundation for future improvements — including **Player vs Computer** mode and a full **GUI version**.
+This repository contains a terminal-based **Tic Tac Toe** game written in **Java**, created as a personal project during **Winter 2023**. The current version supports **Player vs Player** mode in the console, and serves as a foundation for future improvements — including **Player vs Computer** mode and a full **GUI version**.
 
 It's part of my coding portfolio and is featured on my CV to showcase my Java development skills and personal learning journey.
 
@@ -36,6 +36,6 @@ Through this project, I:
  Add win/loss statistics tracking and reset option
 
 📌 Project Context
-This project was built outside of formal coursework as part of my personal development during Summer 2024. It reflects my motivation to explore game development, AI logic, and Java UI design in my own time.
+This project was built outside of formal coursework as part of my personal development during Winter 2023. It reflects my motivation to explore game development, AI logic, and Java UI design in my own time.
 
 ⭐ Thanks for checking out my project! Stay tuned for future updates as I expand this into a full-featured, GUI-based Java game with AI support.
